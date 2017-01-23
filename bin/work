@@ -1,0 +1,3 @@
+#!/bin/bash
+javac -cp WorkApp/javax.mail.jar:WorkApp/src WorkApp/src/Work.java
+java -cp WorkApp/javax.mail.jar:WorkApp/src Work $1
