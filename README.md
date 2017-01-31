@@ -1,5 +1,5 @@
 # WorkApp
-This is a command line productivity tool for managing tasks. It was written in 12 hours for [Alex Zhu](https://github.com/zhukeepa)'s Alphasheets coding challenge (instructions reproduced below with permission).
+This is a command line productivity tool for managing tasks. It was written in about 12 hours for [Alex Zhu](https://github.com/zhukeepa)'s Alphasheets coding challenge (instructions reproduced below with permission).
 
 To run:
 
