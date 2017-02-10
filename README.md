@@ -3,11 +3,9 @@ This is a command line productivity tool for managing tasks. It was written in a
 
 To run:
 
-1) Move “work” (the script) into your bin folder (then run <code>$chmod +x work</code>)
-
-2) Move “WorkApp” into your home directory.
-
-3) Run <code>work</code> or <code>work email</code> from command line (see below for what these do).
+1. Move `work` (the script) into your bin folder (then run <code>$chmod +x work</code>)
+2. Move `WorkApp` (the directory) into your home directory.
+3. Run <code>work</code> or <code>work email</code> from command line (see below for what these do).
 
 Source code in WorkApp/src.
 
